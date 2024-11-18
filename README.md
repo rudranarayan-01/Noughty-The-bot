@@ -18,7 +18,7 @@ Chatbots have much application in today’s era and most of the business is tran
 - Create a virtualenvironment
 - install Flask inside venv
 - Install ngrok in your system
-- Configure Dialogbox with ngrok link
+- Configure DialogFlow with ngrok link
 - Add Currency converter API
 - run the flask app
 
