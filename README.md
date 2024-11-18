@@ -3,7 +3,6 @@
 A chatbot is a natural language understanding application that is widely used by product-based as well as service-based companies to reduce human work and response as soon as possible to maintain customer satisfaction. Chatbots are even used as a marking purpose to recommend products, and also to increase the traffic of a site.
 
 Chatbots have much application in today’s era and most of the business is transforming and increasing productivity using chatbots built using the latest technologies. Applications, types of chatbots already we have learned in the previous article. In this we use currency converter API for convert one currency to another 
-![Screenshot 2024-11-17 103858](https://github.com/user-attachments/assets/74fd5929-9faa-43ba-a8b6-c247363bcc65)
 
 ## Implementing Currency Converter Chatbot
 - Agent (Dialoglow)
