@@ -24,7 +24,7 @@ Chatbots have much application in today’s era and most of the business is tran
 - Add Currency converter API
 - run the flask app
 
-  ### If any trouble during installation connect with codingislife01@gmail.com
+  ### If any trouble during installation connect with rudranarayansahu.tech@gmail.com
 
   ## Author : https://github.com/rudranarayan-01
 
